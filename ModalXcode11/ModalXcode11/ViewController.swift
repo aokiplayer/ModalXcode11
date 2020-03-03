@@ -47,7 +47,7 @@ class ViewController: UIViewController {
         case .none:
             style = "none"
         case .overCurrentContext:
-            style = "none"
+            style = "overCurrentContext"
         case .overFullScreen:
             style = "overFullScreen"
         case .pageSheet:
